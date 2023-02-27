@@ -45,6 +45,12 @@
     opacity: 0.5;
 }
 
+.item {
+    height: 100%;
+    display: none;
+}
+
+
 .show {
     display: block;
 }
@@ -57,11 +63,6 @@
 
 .arrow-down {
     bottom: 10px;
-}
-
-.item {
-    height: 100%;
-    display: none;
 }
 
 .item img {
